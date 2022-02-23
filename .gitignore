@@ -1,0 +1,10 @@
+venv
+model_*
+__pycache__
+*.pkl
+*.pyc
+*.npz
+*.pickle
+*.wav
+*.txt
+*.png
